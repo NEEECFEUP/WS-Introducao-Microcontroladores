@@ -5,4 +5,6 @@ O guião utilizado durante este workshop encontra-se disponível neste repositó
 
 A base para os programas criados durante o workshops encontra-se na pasta "Ficheiros".
 
+Oradores: Nuno Minhoto e Leonardo Ribeiro
+
 NEEEC-FEUP, 2019
